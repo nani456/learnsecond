@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TestDateBmi</string>
+
+
+    <string name="reset">RESET</string>
+    <string name="kg">KG</string>
+    <string name="_00_00" translatable="false">0.00</string>
+    <string name="bmi" translatable="false">BMI</string>
+    <string name="height_cm">Height cm</string>
+    <string name="weight_kg">Weight kg</string>
+    <string name="let_s_begin">Let\'s calculate</string>
+    <string name="underweight">Underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="_16_0_19_9" translatable="false">16.0 ~ 16.9</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="_16_0" translatable="false"><![CDATA[<16.0]]></string>
+    <string name="_17_0_18_4" translatable="false">17.0 ~ 18.4</string>
+    <string name="healthy">Healthy</string>
+    <string name="_18_5_24_9" translatable="false">18.5 ~ 24.9</string>
+    <string name="overweight">Overweight</string>
+    <string name="_25_0_29_9" translatable="false">25.0 ~ 29.9</string>
+    <string name="_30_0_34_9" translatable="false">30.0 ~ 34.9</string>
+    <string name="obese_class_i">Obese Class I</string>
+    <string name="obese_class_ii">Obese Class II</string>
+    <string name="_35_0_39_9" translatable="false">35.0 ~ 39.9</string>
+    <string name="obese_class_iii">Obese Class III</string>
+    <string name="_40_0" translatable="false"><![CDATA[>=40.0]]></string>
+    <string name="need_healthy">For healthy life You have to increase:</string>
+    <string name="lose_healthy">For healthy life You have to decrease:</string>
+
+</resources>
